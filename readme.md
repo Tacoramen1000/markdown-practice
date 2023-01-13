@@ -112,3 +112,5 @@ Check off each step as you complete it and [refer back to the reading](https://d
 <!-- Start of Section 5 -->
 
 <!-- End of Section 5 -->
+
+---
